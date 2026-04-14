@@ -7,12 +7,10 @@ A modular, research-grade quantitative backtesting system built from scratch to 
 ## 📊 Results Visualization
 
 ### Strategy Equity Curve
-
-![Equity Curve](equity_curve.png)
+![Equity Curve](assets/equity_curve.png)
 
 ### Strategy vs Benchmark
-
-![Comparison](comparison.png)
+![Comparison](assets/comparison.png)
 
 ---
 
